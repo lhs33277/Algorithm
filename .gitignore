@@ -1,0 +1,21 @@
+# Java class files
+*.class
+
+# IDE 관련 파일 (Eclipse, IntelliJ 등)
+*.log
+*.iml
+.idea/
+.vscode/
+.project
+.classpath
+.settings/
+
+# 빌드 결과물
+/bin/
+build/
+out/
+target/
+
+# OS 자동 생성 파일
+.DS_Store
+Thumbs.db
